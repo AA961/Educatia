@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o}from"./index.a2e4acbe.js";const s={},c={src:"https://raw.githubusercontent.com/AA961/Educatia/gh-pages/files/demo.pdf"};function r(a,n,p,_,i,f){return e(),o("iframe",c)}const m=t(s,[["render",r]]);export{m as default};
