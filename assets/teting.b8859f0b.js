@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,b as s}from"./index.8ed8eac3.js";const c={name:"Testing"},r={width:"100%",height:"600px",data:"/files/demo.pdf",type:"application/pdf"},a=s("iframe",{src:"https://docs.google.com/viewer?url=your_url_to_pdf&embedded=true"},null,-1),n=[a];function d(_,i,p,f,l,m){return t(),o("object",r,n)}const h=e(c,[["render",d]]);export{h as default};

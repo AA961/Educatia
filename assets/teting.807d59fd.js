@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,b as s}from"./index.0f5172e2.js";const c={name:"Testing"},_=s("object",{data:"https://docs.google.com/gview?embbedded=true&url=https://pdfhost.io/v/ITw6PTNXM_The_Ordeal_of_Richard_Feverel_Volume_2",type:""},null,-1),a=[_];function n(r,d,l,i,p,u){return t(),o("div",null,a)}const h=e(c,[["render",n]]);export{h as default};
